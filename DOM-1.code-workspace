@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "/Users/mac/Documents/JS_sandbox"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js_coursehunter"
+	}
+}
